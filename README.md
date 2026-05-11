@@ -47,21 +47,6 @@
 ---
 
 
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-![Rajaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaagl&show_icons=true&theme=github-dark&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?username=rajaagl&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaagl&layout=compact&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
 ### 🌱 En apprentissage actuellement
 
 - 🔐 Approfondissement de la sécurité web (OWASP Top 10)
